@@ -1,0 +1,9 @@
+
+FTP:
+account:www
+password:FnkYHrNjJ
+
+MySQL:
+account:root
+password:fd9e4158e1
+
